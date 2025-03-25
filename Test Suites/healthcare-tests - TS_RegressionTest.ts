@@ -12,12 +12,6 @@
     <rerunImmediately>false</rerunImmediately>
     <testSuiteGuid>1286ccc6-2057-418d-87af-23d00cc6cd0e</testSuiteGuid>
     <testCaseLink>
-        <guid>e4bf2157-13c0-4c5f-875c-fa60a7e7a2fa</guid>
-        <isReuseDriver>false</isReuseDriver>
-        <isRun>true</isRun>
-        <testCaseId>Test Cases/Main Test Cases/TC_6792_ProductSearch_Filter_09</testCaseId>
-    </testCaseLink>
-    <testCaseLink>
         <guid>955abe25-4029-43e2-b02f-57315c1ade49</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
