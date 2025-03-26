@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>create tc</name>
+    <testCaseGuid>07114926-9a4c-431e-bbf4-dce259ce4dd2</testCaseGuid>
+</TestCaseEntity>
+
