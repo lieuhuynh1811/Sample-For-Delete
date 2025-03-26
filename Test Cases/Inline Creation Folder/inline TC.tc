@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>inline TC</name>
+    <testCaseGuid>472b9167-b634-4d07-bb48-9100745c9148</testCaseGuid>
+</TestCaseEntity>
+
