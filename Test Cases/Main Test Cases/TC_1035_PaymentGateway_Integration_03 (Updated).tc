@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <TestCaseEntity>
     <type>AUTOMATED</type>
-    <description></description>
-    <tag></tag>
-    <comment></comment>
+    <description>Verify if users can process payment sucessfully.
+Pre-condition: Users have already logged in
+
+Steps:
+- Input card info
+- Input OTP
+- Click on proceed
+
+Expected results:
+Payment Success page is displayed</description>
+    <tag/>
+    <comment/>
     <name>TC_1035_PaymentGateway_Integration_03 (Updated)</name>
     <recordOption>OTHER</recordOption>
     <testCaseGuid>88e63304-a633-4896-b3ef-53b66afbb2a4</testCaseGuid>
 </TestCaseEntity>
-
