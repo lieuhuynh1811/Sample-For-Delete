@@ -41,7 +41,7 @@
       <guid>1c9d96a6-913e-4423-9426-93661050c9d6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_1035_PaymentGateway_Integration_03</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (Updated)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
