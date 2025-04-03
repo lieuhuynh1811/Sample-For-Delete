@@ -4,12 +4,12 @@
    <name>test</name>
    <tag></tag>
    <UUID>1c6e2137-e93a-4e38-9453-30835b1c4bd2</UUID>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.1.1</modifiedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\toanhx\Katalon Studio\Sample Project\test.prj</projectFileLocation>
+   <projectFileLocation>/Users/phat.tcu/git/Sample-For-Delete/test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

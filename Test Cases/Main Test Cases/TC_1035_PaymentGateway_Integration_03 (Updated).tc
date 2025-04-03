@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-    <type>AUTOMATED</type>
-    <description>Verify if users can process payment sucessfully.
+   <description>Verify if users can process payment sucessfully.
 Pre-condition: Users have already logged in
 
 Steps:
 - Input card info
+- Input payment address
 - Input OTP
 - Click on proceed
 
 Expected results:
 Payment Success page is displayed</description>
-    <tag/>
-    <comment/>
-    <name>TC_1035_PaymentGateway_Integration_03 (Updated)</name>
-    <recordOption>OTHER</recordOption>
-    <testCaseGuid>88e63304-a633-4896-b3ef-53b66afbb2a4</testCaseGuid>
+   <name>TC_1035_PaymentGateway_Integration_03 (Updated)</name>
+   <tag>New tag</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88e63304-a633-4896-b3ef-53b66afbb2a4</testCaseGuid>
 </TestCaseEntity>
