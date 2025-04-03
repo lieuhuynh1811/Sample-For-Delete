@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<TestCaseEntity>
-   <type>MANUAL</type>
-   <description>New test case 04/02/2025</description>
-   <tag></tag>
-   <comment></comment>
-   <name>New test case 04022025-02</name>
-   <testCaseGuid>93f83698-1043-11f0-8542-e79f251582e0</testCaseGuid>
-</TestCaseEntity>
