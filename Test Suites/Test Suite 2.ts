@@ -15,7 +15,7 @@
         <guid>5c5a694b-9542-47df-903f-8f85631ec816</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
+        <testCaseId>Test Cases/Common Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
     </testCaseLink>
     <testCaseLink>
         <guid>425fcb46-baf4-4c23-a69a-75a65b095b3e</guid>
