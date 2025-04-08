@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>New test case after deployment</name>
+    <testCaseGuid>a9f40249-568e-4b69-beea-30b1878ec144</testCaseGuid>
+</TestCaseEntity>
+
