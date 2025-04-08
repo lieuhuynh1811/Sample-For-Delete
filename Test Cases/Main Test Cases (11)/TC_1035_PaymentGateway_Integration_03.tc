@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_1035_PaymentGateway_Integration_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b9f514c-149b-11f0-bd04-9e293d654281</testCaseGuid>
+</TestCaseEntity>
