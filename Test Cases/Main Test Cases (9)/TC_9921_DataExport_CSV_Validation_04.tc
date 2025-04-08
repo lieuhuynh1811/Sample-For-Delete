@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_9921_DataExport_CSV_Validation_04</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>654c7a5c-1467-11f0-9a9c-ae78a91f732a</testCaseGuid>
-</TestCaseEntity>
