@@ -15,7 +15,7 @@
       <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_5412_UserLogin_Validation_01</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5412_UserLogin_Validation_01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,14 +34,14 @@
       <guid>e4bf2157-13c0-4c5f-875c-fa60a7e7a2fa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_6792_ProductSearch_Filter_09</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_6792_ProductSearch_Filter_09</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>955abe25-4029-43e2-b02f-57315c1ade49</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_4658_NotificationSystem_Email_05</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_4658_NotificationSystem_Email_05</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

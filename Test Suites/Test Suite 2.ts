@@ -15,35 +15,35 @@
       <guid>5c5a694b-9542-47df-903f-8f85631ec816</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>425fcb46-baf4-4c23-a69a-75a65b095b3e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_2374_PasswordReset_Security_07</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_2374_PasswordReset_Security_07</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>d0b7df57-90f5-4e37-b147-22bb14d5a1b9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_5048_AdminDashboard_Statistics_08</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5048_AdminDashboard_Statistics_08</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>dc203119-4ac8-4773-af55-7f85f9b025ef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_6792_ProductSearch_Filter_09</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_6792_ProductSearch_Filter_09</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7098cf6c-7973-42fa-8b83-4259563a7bcb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC_3819_UserRegistration_EmailVerification_10</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_3819_UserRegistration_EmailVerification_10</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

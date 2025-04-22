@@ -15,7 +15,7 @@
         <guid>3ef50b82-10fd-4e22-b4e8-5f72f651db14</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
+        <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
         <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
     </testCaseLink>
 </TestSuiteEntity>

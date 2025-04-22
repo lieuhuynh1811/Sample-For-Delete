@@ -15,14 +15,14 @@
         <guid>e037bde6-2832-4d5c-b9df-5c7f5e7d0b2c</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
+        <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
         <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
     </testCaseLink>
     <testCaseLink>
         <guid>d493f21e-7ebd-40fb-9177-f2d19fa7cc28</guid>
         <isReuseDriver>false</isReuseDriver>
         <isRun>true</isRun>
-        <testCaseId>Test Cases/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
+        <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_7821_ProfileUpdate_UI_06</testCaseId>
         <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
     </testCaseLink>
 </TestSuiteEntity>
