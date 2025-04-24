@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_2837_ShoppingCart_Checkout_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c60dded2-20f4-11f0-8547-9675d3bdcde1</testCaseGuid>
+</TestCaseEntity>
