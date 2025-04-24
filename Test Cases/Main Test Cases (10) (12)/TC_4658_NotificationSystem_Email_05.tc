@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4658_NotificationSystem_Email_05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30f41c9a-2120-11f0-a4bd-954a1e3cdad3</testCaseGuid>
+</TestCaseEntity>
