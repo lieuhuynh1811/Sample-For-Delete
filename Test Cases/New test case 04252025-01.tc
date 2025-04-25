@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description>New test case 03/31/2025</description>
+    <tag></tag>
+    <comment></comment>
+    <name>New test case 04252025-01</name>
+    <testCaseGuid>607e8274-25ea-45ee-b6a2-149994e80063</testCaseGuid>
+</TestCaseEntity>
+
