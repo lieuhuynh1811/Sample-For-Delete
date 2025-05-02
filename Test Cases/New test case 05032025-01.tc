@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>New test case 05/03/2025</description>
+    <tag></tag>
+    <comment></comment>
+    <name>New test case 05032025-01</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>6dff6408-3553-4cde-b99d-4f02d4bb2879</testCaseGuid>
+</TestCaseEntity>
