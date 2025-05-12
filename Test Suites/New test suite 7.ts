@@ -32,7 +32,21 @@
       </variableLinks>
    </testCaseLink>
    <testCaseLink>
-      <guid>7a0628ec-ca51-4181-8678-898473f1f5f5</guid>
+      <guid>8e2cdaf3-2676-441c-881b-f6408122833e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (updated)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>13816f54-f80f-4c3f-a50c-e02bf294be1c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (updated)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5bbf4cce-5026-4baa-8e20-16fbffcf5332</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5412_UserLogin_Validation_01 (updated)</testCaseId>
@@ -49,12 +63,5 @@
          <value></value>
          <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
       </variableLinks>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8e2cdaf3-2676-441c-881b-f6408122833e</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (updated)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
