@@ -32,14 +32,14 @@
       </variableLinks>
    </testCaseLink>
    <testCaseLink>
-      <guid>2be10822-1811-403a-8b76-b6e98b6fbd1f</guid>
+      <guid>3232eb98-7f0f-47a7-a280-2df18b93d72d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (updated)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>a7b2d1b1-06a1-4de6-9f4a-49eb216b6825</guid>
+      <guid>809fc40a-d1b5-49a2-9dff-0ca6ea173f1b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5412_UserLogin_Validation_01 (updated)</testCaseId>
