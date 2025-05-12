@@ -15,7 +15,7 @@
    <testCaseLink>
       <guid>e7f75f71-9a5c-403b-b9c1-994d8ee0e059</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5412_UserLogin_Validation_01 (updated)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLinks>
@@ -49,5 +49,12 @@
          <value></value>
          <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
       </variableLinks>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8e2cdaf3-2676-441c-881b-f6408122833e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (updated)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
