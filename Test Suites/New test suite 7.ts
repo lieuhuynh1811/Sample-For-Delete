@@ -57,7 +57,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3b37397e-146c-4f9d-8717-e1f1ebce55cf</guid>
+      <guid>6ac881d6-bf09-436c-818d-92be0429aed9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (updated)</testCaseId>
