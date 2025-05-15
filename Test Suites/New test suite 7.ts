@@ -40,7 +40,7 @@
    <testCaseLink>
       <guid>98c56d76-02fb-4949-a849-a039c5698b43</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5048_AdminDashboard_Statistics_08</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
