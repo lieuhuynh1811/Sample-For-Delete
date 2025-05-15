@@ -12,7 +12,14 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>cb700131-22b2-4794-a198-c7f5815c06d5</testSuiteGuid>
    <testCaseLink>
-      <guid>a766e9cd-371b-4191-aa63-bc3f7f1af3b3</guid>
+      <guid>75c52821-7b66-4212-846e-ab8191639eda</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_9921_DataExport_CSV_Validation_04 (updated)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5112700a-6468-43d9-a9fe-04fb00c12409</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5412_UserLogin_Validation_01 (updated)</testCaseId>
@@ -31,21 +38,21 @@
       </variableLinks>
    </testCaseLink>
    <testCaseLink>
-      <guid>483482e8-48fd-4e42-9483-b3fb8bf9a47d</guid>
+      <guid>98c56d76-02fb-4949-a849-a039c5698b43</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5048_AdminDashboard_Statistics_08</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e61e12c8-c4cd-4f92-9969-bdd40bf4bc7f</guid>
+      <guid>5ff6a7a7-74b6-4dfa-993a-f863e74cb8e0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_6792_ProductSearch_Filter_09</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>71db3895-d07f-4cdb-bcf4-8fea57190433</guid>
+      <guid>8de6716f-576c-4729-bd35-33b97f0278c6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_3819_UserRegistration_EmailVerification_10 (updated)</testCaseId>
@@ -62,12 +69,5 @@
          <value></value>
          <variableId>8ec25d6a-451e-4894-9fe7-d3949be2c853</variableId>
       </variableLinks>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>75c52821-7b66-4212-846e-ab8191639eda</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_9921_DataExport_CSV_Validation_04 (updated)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
