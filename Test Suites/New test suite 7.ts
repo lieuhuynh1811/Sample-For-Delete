@@ -45,7 +45,26 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>83e1fe01-36fb-47dc-9f87-5b7d15c2d56f</guid>
+      <guid>f417b76f-b888-4223-8839-f3e494da8931</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_5412_UserLogin_Validation_01 (updated)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
+      </variableLinks>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
+      </variableLinks>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e2738eef-74c3-4572-9674-acd332cbead9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_6792_ProductSearch_Filter_09</testCaseId>
