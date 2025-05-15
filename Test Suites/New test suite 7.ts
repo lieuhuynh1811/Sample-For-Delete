@@ -31,20 +31,6 @@
       </variableLinks>
    </testCaseLink>
    <testCaseLink>
-      <guid>5a8a8fa0-e4bd-4bfa-b60b-299c2df5d695</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (updated)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6ac881d6-bf09-436c-818d-92be0429aed9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_1035_PaymentGateway_Integration_03 (updated)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>5b41fd88-2c26-402a-9adc-d6645c9846e0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
