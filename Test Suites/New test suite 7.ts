@@ -49,4 +49,11 @@
          <variableId>8ec25d6a-451e-4894-9fe7-d3949be2c853</variableId>
       </variableLinks>
    </testCaseLink>
+   <testCaseLink>
+      <guid>63177724-b668-4542-90dc-dc43a9824683</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases (updated) 1/Main Test Cases/TC_9921_DataExport_CSV_Validation_04 (updated)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
