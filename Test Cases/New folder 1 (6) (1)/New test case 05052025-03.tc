@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can login successful. 
+
+Steps:
+- Click on Appointment button to login
+- Input username and password
+- Click on Logi button
+- Click on Verify
+
+Expected result:
+Booking</description>
+   <tag></tag>
+   <comment></comment>
+   <name>New test case 05052025-03</name>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bfc5544c-3616-11f0-90f9-fee1a0a72ede</testCaseGuid>
+</TestCaseEntity>
