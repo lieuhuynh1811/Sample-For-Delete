@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-    <description>New test case 05/05/2025</description>
-    <tag></tag>
-    <comment></comment>
-    <name>New test case 05052025-03</name>
-    <recordOption>OTHER</recordOption>
-    <testCaseGuid>d05059ce-347c-11f0-949e-d1a5af63a141</testCaseGuid>
+   <description>Verify if users can login successful. 
+
+Steps:
+- Click on Appointment button to login
+- Input username and password
+- Click on Logi button
+- Click on Verify
+
+Expected result:
+Booking</description>
+   <tag></tag>
+   <comment></comment>
+   <name>New test case 05052025-03</name>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d05059ce-347c-11f0-949e-d1a5af63a141</testCaseGuid>
 </TestCaseEntity>
