@@ -7,4 +7,14 @@
    <name>Test Case in Git 1</name>
    <testCaseGuid>1ebd07c8-020b-40c1-b9a6-2f8c972c39d0</testCaseGuid>
    <priority>CRITICAL</priority>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["Archiving"]},{"key":"testType","value":[]}]}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
 </TestCaseEntity>
