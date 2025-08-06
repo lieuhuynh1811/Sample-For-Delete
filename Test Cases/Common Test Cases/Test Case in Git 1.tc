@@ -12,7 +12,7 @@
       <properties>
          <entry>
             <key>integratedValue</key>
-            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["Archiving"]},{"key":"testType","value":["API"]}]}}</value>
+            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["Auditor Search","Archiving"]},{"key":"testType","value":["API"]}]}}</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
